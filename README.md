@@ -12,7 +12,6 @@ My journey so far includes:
 - 💡 Prototyping creative solutions, like a **smart vending machine** that offers healthy food based on biometric data
 
 ---
-
 ## ⚙️ Technologies I've Worked With
 
 - **Languages**: `C++`, `Python`, `Java`, `JavaScript`  
