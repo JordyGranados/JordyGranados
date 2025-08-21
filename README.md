@@ -5,7 +5,8 @@
 I'm a curious and goal-oriented Computer Science student based in Monterrey, Mexico. I enjoy building meaningful tech, especially projects that intersect education, health, and social justice.
 
 My journey so far includes:
--  Software Development Intern @ CleverCloud *(Currently)*
+-  Software Development Intern @ Accenture *(Currently)*
+-  Software Development Intern @ CleverCloud (Mar 25 - Jun 25)
 -  Cybersecurity Intern @ Tec de Monterrey (2024–2025)
 -  Developing algorithmic solutions in `C++` (sorting, searching, simulation)
 -  Participating in and organizing hackathons to bring ideas to life
